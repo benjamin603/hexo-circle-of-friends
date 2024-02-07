@@ -22,9 +22,5 @@ MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
-  json_api: https://blog.leonus.cn/link.json
-  list:
-  - - Leonus
-    - https://blog.leonus.cn/
-    - https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
-    - atom.xml
+  json_api: ''
+  list: []
